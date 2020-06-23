@@ -5,7 +5,7 @@ To recreate our work, files should be run as follows:
 - first_pass_final.js, conv_tree.js, conv_tree_import_part.js and whose_import.js clean the redundant and missing data that can be fed to mongodb
 - data_challenge.ipynb and DC_donghyeok.ipynb are the first python notebooks with initial overall findings (the first one creates a later used dictionary in save.p)
 - Statistics_Paula.ipynb updates the dictionary and saves it to save2.p
-- sentiment-analysis-j.ipynb is our sentiment analysis notebook 
+- sentiment-analysis-j.ipynb is our sentiment analysis notebook, later updated with breastfeeding sentiment
 - Word_Frequency_Analysis.ipynb 
 - first_pass_final.js was updated and it contains code for restructuring the data to sql format 
 - Helperlite.ipynb contains helper functions for working with sql
