@@ -3,7 +3,7 @@ This repository hosts the code for the 2020 DBL Data Challenge. Analyzing 35GB o
 
 To recreate our work, files should be run as follows:
 - first_pass_final.js, conv_tree.js, conv_tree_import_part.js and whose_import.js clean the redundant and missing data that can be fed to mongodb
-- data_challenge.ipynb is the first python notebook with initial overall findings and creates a later used dictionary in save.p
+- data_challenge.ipynb and DC_donghyeok.ipynb are the first python notebooks with initial overall findings (the first one creates a later used dictionary in save.p)
 - Statistics_Paula.ipynb updates the dictionary and saves it to save2.p
 - sentiment-analysis-j.ipynb is our sentiment analysis notebook 
 - Word_Frequency_Analysis.ipynb 
